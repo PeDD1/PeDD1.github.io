@@ -20,7 +20,7 @@
         color: #252525;
       }
 
-      .header {
+      article {
         background-color: #8C8C8C;
         border-radius: 10px;
       }
@@ -53,7 +53,7 @@
         color: #252525;
       }
 
-      .hyperlinks-down {
+      .footer-hyperlinks {
         text-align: center;
         margin-top: 20px;
       }
@@ -62,5 +62,4 @@
         background-color: #aa8a30;
         border-radius: 50%;
       }
-
       
